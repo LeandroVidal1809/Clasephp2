@@ -106,7 +106,7 @@
 		
 			$Figura = new FiguraGeometrica;
 
-
+					var_dump($Figura);
 
 		?> 
 

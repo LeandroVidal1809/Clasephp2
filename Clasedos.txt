@@ -1,0 +1,4 @@
+Objetos
+Todos los metodos son virtuales
+include , require y require_once para llamar una clase
+crear clase en tuars

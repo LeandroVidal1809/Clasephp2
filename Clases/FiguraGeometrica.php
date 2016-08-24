@@ -21,6 +21,10 @@
         $this->_color = $color;
     }
 
+    public abstract function Dibujar();
+
+    protected abstract function calcularDatos();
+
 	}
 
 
