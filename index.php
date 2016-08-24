@@ -96,6 +96,17 @@
 
 
 		}
+		echo"-------------------------------------------------------------------------";
+		echo "<br>";
+		echo "Ejercicio Objetos";
+		echo "<br>";
+		echo "<br>";
+
+			require('Clases/FiguraGeometrica.php');
+		
+			$Figura = new FiguraGeometrica;
+
+
 
 		?> 
 
